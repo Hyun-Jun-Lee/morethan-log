@@ -7,15 +7,15 @@ const CONFIG = {
     bio: "It's only the children's clothing model that's too late",
     email: "bhk0827@gmail.com",
     linkedin: "",
-    github: "Lee Hyun Jun",
+    github: "Hyun-Jun-Lee",
     instagram: "",
   },
-  projects: [
-    {
-      name: `Hyun-Jun-Lee`,
-      href: "https://github.com/Hyun-Jun-Lee",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `Hyun-Jun-Lee`,
+  //     href: "https://github.com/Hyun-Jun-Lee",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "HJ's External Storage",
